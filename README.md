@@ -1,0 +1,2 @@
+# ejercicioDivisores
+Created with CodeSandbox
